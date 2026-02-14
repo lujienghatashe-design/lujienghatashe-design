@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lujain%20Ghatasheh&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=🦋%20lujain%20ghatasheh%20🦋&fontSize=60&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=FFB6C1,89CFF0"/>
 </div>
+
 
 <div align="center">
   🦋 طالبة أمن سيبراني | Red Team Junior | Ethical Hacking & Pen Testing 🦋
